@@ -30,7 +30,7 @@
     --notification-color: 250, 100, 150;
     --notification: rgb(var(--notification-color));
     --notification-opacity: rgba(var(--notification-color), var(--dark-opacity));
-    --rainbow-gradient-width: 1px;
+    --rainbow-gradient-width: 3px;
     --rainbow-gradient: linear-gradient(90deg, rgba(0,240,147,1) 0%, rgba(0,238,255,1) 100%);
 }
 
